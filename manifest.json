@@ -1,0 +1,23 @@
+{
+  "name": "Better YouTube",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Make YouTube better.",
+  "homepage_url": "https://www.porg.io",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "icons": {
+	"16": "by16.png",
+	"32": "by32.png",
+    "64": "by64.png",
+    "128": "by128.png"
+  },
+  "permissions": [
+    "https://www.youtube.com/",
+    "http://www.youtube.com/"
+  ]
+}
