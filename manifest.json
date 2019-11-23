@@ -19,7 +19,7 @@
   "permissions": [
     "https://www.youtube.com/",
     "http://www.youtube.com/"
-  ]
+  ],
   "options_ui": {
     "page": "options.html",
     "chrome_style": true
