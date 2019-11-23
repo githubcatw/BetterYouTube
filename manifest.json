@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "Make YouTube better.",
-  "homepage_url": "https://www.porg.io",
+  "homepage_url": "https://github.com/githubcatw/BetterYouTube/",
   "background": {
     "scripts": [
       "background.js"
