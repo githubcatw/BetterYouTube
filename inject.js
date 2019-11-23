@@ -13,6 +13,19 @@ document.getElementsByClassName("style-scope ytd-button-renderer style-default s
 Object.defineProperty(navigator, 'userAgent', {
     get: function () { return 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.105 Safari/537.36'; }
 });*/
-console.log("BetterYouTube installed!");
+console.log("\n\n" + 
+			"/---------------------\\" + "\n" +
+			"|                     |\n" +
+			"|                     |\n" +
+			"|    +           +    |\n" +
+			"|                     |\n" +
+			"|                     |\n" +
+			"\\---------------------/\n" +
+			"\n" +
+			"     FOSS to improve YT\n" + 
+			"\n\n\n" +
+			"BetterYouTube installed!\n" +
+			"\n" + 
+			"Fork me: github.com/githubcatw/BetterYouTube");
 
 })();
