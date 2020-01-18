@@ -16,13 +16,13 @@ Object.defineProperty(navigator, 'userAgent', {
 console.log("\n\n" + 
 			"/---------------------\\" + "\n" +
 			"|                     |\n" +
-			"|                     |\n" +
-			"|    +           +    |\n" +
-			"|                     |\n" +
+			"|    |           |    |\n" +
+			"|  --+--       --+--  |\n" +
+			"|    |           |    |\n" +
 			"|                     |\n" +
 			"\\---------------------/\n" +
 			"\n" +
-			"     FOSS to improve YT\n" + 
+			"   FOSS to improve YT\n" + 
 			"\n\n\n" +
 			"BetterYouTube installed!\n" +
 			"\n" + 
